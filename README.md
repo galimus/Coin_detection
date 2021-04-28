@@ -14,7 +14,7 @@ Coin_detection
 
 7)Banknotes classification
 
-8) Neural Network for coins classification
+8)Neural Network for coins classification
 
 9)Data augmentation
 
